@@ -1,0 +1,18 @@
+# ----------------------------------------
+# MobileBanking
+# Свободная форма-Свободная форма 1
+# 20260227-20260428
+# ----------------------------------------
+
+Название события,Операционная система,Активные пользователи,Количество событий
+,,182623,1747895,Общий итог
+first_open,Android,67180,67350
+first_open,iOS,50946,51375
+home_tab_loan,Android,44829,560999
+home_tab_loan,iOS,41311,563640
+online_loan_continue,Android,34548,142789
+apply_loan_continue,Android,31678,116725
+online_loan_continue,iOS,27899,109048
+apply_loan_continue,iOS,25443,84082
+app_remove,Android,23613,51887
+

@@ -1,0 +1,45 @@
+# ----------------------------------------
+# MobileBanking
+# Свободная форма-Свободная форма 1
+# 20260227-20260428
+# ----------------------------------------
+
+Название события,Источник/канал сеанса,Активные пользователи,Количество событий
+,,182623,1747895,Общий итог
+home_tab_loan,(direct) / (none),66356,911024
+first_open,(direct) / (none),58952,59203
+first_open,google-play / organic,44596,44566
+online_loan_continue,(direct) / (none),44179,172917
+apply_loan_continue,(direct) / (none),39819,133306
+home_tab_loan,google-play / organic,15719,138135
+online_loan_continue,google-play / organic,13629,53026
+first_open,google / cpc,13142,13107
+app_remove,google-play / organic,12987,18176
+apply_loan_continue,google-play / organic,12782,45573
+home_tab_loan,(not set),8042,36913
+app_remove,google / cpc,5118,7689
+app_remove,(direct) / (none),5064,7031
+online_loan_continue,google / cpc,4834,16986
+home_tab_loan,google / cpc,4824,34157
+apply_loan_continue,google / cpc,4519,15036
+online_loan_continue,(not set),3749,6688
+apply_loan_continue,(not set),3225,5100
+first_open,google / organic,1442,1442
+online_loan_continue,google / organic,426,2077
+home_tab_loan,google / organic,424,4238
+app_remove,google / organic,417,576
+apply_loan_continue,google / organic,400,1666
+first_open,(not set),237,239
+app_remove,(not set),187,18318
+first_open,apps.facebook.com / (not set),167,167
+app_remove,apps.facebook.com / (not set),53,62
+home_tab_loan,apps.facebook.com / (not set),43,160
+apply_loan_continue,apps.facebook.com / (not set),40,124
+online_loan_continue,apps.facebook.com / (not set),40,142
+apply_loan_continue,apps.facebook.com / (none),2,2
+home_tab_loan,chatgpt.com / (not set),2,10
+app_remove,apps.facebook.com / (none),1,35
+first_open,ginlemon.flowerfree / (not set),1,1
+home_tab_loan,apps.facebook.com / (none),1,2
+online_loan_continue,apps.facebook.com / (none),1,1
+
